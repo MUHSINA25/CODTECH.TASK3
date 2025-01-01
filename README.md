@@ -1,6 +1,17 @@
 # CODTECH.TASK3
 # Predictive Modeling with Classification
 
+**COMPANY**: CODTECT IT SOLUTIONS
+
+**NAME**:MUHSINA CT
+
+**INTERN ID**:CT08FAA
+
+**DOMAIN**:DATA SCIENCE
+
+**BATCH DURATION**:20 DECEMBER 2024 TO 20 JANUARY 2025
+
+
 ## Overview
 
 This project applies various classification algorithms to build predictive models. It involves data preprocessing, training models, and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score.
